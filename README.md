@@ -1,2 +1,2 @@
-# Algoritimo_Logica_Programacao-I_Lúcio
+# Algoritimo-Logica-Programacao-I-Lúcio
 Aula do Lucio
